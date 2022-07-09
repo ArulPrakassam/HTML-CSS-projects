@@ -1,3 +1,3 @@
 # HTML-CSS-projects
-My name is Arul Prakassam\
-I created these projects
+
+I am practicing HTML, CSS by doing these projects
